@@ -34,7 +34,7 @@ pipeline {
 
         stage('Post Build') {
             steps {
-                echo '✅Second Build Completed Successfully!!'
+                echo '✅2nd Build Completed Successfully!!'
             }
         }
     }
